@@ -2,6 +2,6 @@
 
 Our discord server: https://discord.gg/nqch2J4Zs3
 
-VirusTotal link:
+VirusTotal link: https://www.virustotal.com/gui/file/7ed8999d2cadeee95536dbae5b2fc088e89d9eb9072c5597f3007da4c37ab8ba?nocache=1
 
-Download link:
+Download link: https://picture.wtf/p/ifFvsS.zip
